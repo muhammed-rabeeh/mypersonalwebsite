@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.google.hackermind",
+    "sha256_cert_fingerprints":
+    ["13:F7:16:CB:9D:15:C9:90:6D:BC:B0:79:DC:DA:A6:2B:39:38:49:4C:CA:02:F7:13:D3:FC:2B:52:AB:1B:58:D5"]
+  }
+}]
